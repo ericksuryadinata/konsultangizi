@@ -146,7 +146,7 @@ $G_C_SITE_KEY = getenv('G_C_SITE_KEY');
                         <div class="owl-carousel" data-nav-dots="true" data-items="4" data-md-items="4" data-sm-items="3" data-xs-items="2" data-xx-items="1" data-space="20">
                             <div class="team team-round">
                                 <div class="team-photo">
-                                    <img class="img-fluid full-width" src="assets/images/dietitian/fildzah-k-putri-sgz-msc.jpg" alt="Fildzah K. Putri, S.Gz, M.Sc">
+                                    <img class="img-fluid full-width" src="assets/images/dietitian/fildzah-k-putri-sgz-msc.webp" alt="Fildzah K. Putri, S.Gz, M.Sc">
                                 </div>
                                 <div class="team-description">
                                     <div class="team-info">
@@ -157,7 +157,7 @@ $G_C_SITE_KEY = getenv('G_C_SITE_KEY');
                             </div>
                             <div class="team team-round">
                                 <div class="team-photo">
-                                    <img class="img-fluid full-width" src="assets/images/dietitian/raudhatul-jannah-sgz.jpg" alt="Raudhatul Jannah, S.Gz">
+                                    <img class="img-fluid full-width" src="assets/images/dietitian/raudhatul-jannah-sgz.webp" alt="Raudhatul Jannah, S.Gz">
                                 </div>
                                 <div class="team-description">
                                     <div class="team-info">
@@ -168,7 +168,7 @@ $G_C_SITE_KEY = getenv('G_C_SITE_KEY');
                             </div>
                             <div class="team team-round">
                                 <div class="team-photo">
-                                    <img class="img-fluid full-width" src="assets/images/kontributor/ilyatun-niswah-sgz-msc.jpg" alt="Ilyatun Niswah, S.Gz, M.Sc">
+                                    <img class="img-fluid full-width" src="assets/images/kontributor/ilyatun-niswah-sgz-msc.webp" alt="Ilyatun Niswah, S.Gz, M.Sc">
                                 </div>
                                 <div class="team-description">
                                     <div class="team-info">
@@ -179,7 +179,7 @@ $G_C_SITE_KEY = getenv('G_C_SITE_KEY');
                             </div>
                             <div class="team team-round">
                                 <div class="team-photo">
-                                    <img class="img-fluid full-width" src="assets/images/kontributor/nur-elya-adiba-sgz.jpg" alt="Nur Elya Adiba, S.Gz">
+                                    <img class="img-fluid full-width" src="assets/images/kontributor/nur-elya-adiba-sgz.webp" alt="Nur Elya Adiba, S.Gz">
                                 </div>
                                 <div class="team-description">
                                     <div class="team-info">
@@ -190,7 +190,7 @@ $G_C_SITE_KEY = getenv('G_C_SITE_KEY');
                             </div>
                             <div class="team team-round">
                                 <div class="team-photo">
-                                    <img class="img-fluid full-width" src="assets/images/kontributor/nurrika-azizah-sgz.jpg" alt="Nurrika Azizah, S.Gz">
+                                    <img class="img-fluid full-width" src="assets/images/kontributor/nurrika-azizah-sgz.webp" alt="Nurrika Azizah, S.Gz">
                                 </div>
                                 <div class="team-description">
                                     <div class="team-info">
