@@ -143,7 +143,7 @@ $G_C_SITE_KEY = getenv('G_C_SITE_KEY');
                 </div>
                 <div class="row">
                     <div class="col-lg-12 col-md-12">
-                        <div class="owl-carousel" data-nav-dots="true" data-items="4" data-md-items="4" data-sm-items="3" data-xs-items="2" data-xx-items="1" data-space="20">
+                        <div class="owl-carousel" data-nav-dots="true" data-items="4" data-md-items="4" data-sm-items="2" data-xs-items="2" data-xx-items="2" data-space="20">
                             <div class="team team-round">
                                 <div class="team-photo">
                                     <img class="img-fluid full-width" src="assets/images/dietitian/fildzah-k-putri-sgz-msc.webp" alt="Fildzah K. Putri, S.Gz, M.Sc">
