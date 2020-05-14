@@ -111,11 +111,14 @@ $G_C_SITE_KEY = getenv('G_C_SITE_KEY');
                     <div class="col-lg-6">
                         <div class="who-we-are-left">
                             <div class="owl-carousel" data-nav-dots="true" data-items="1" data-md-items="1" data-sm-items="1" data-xs-items="1" data-xx-items="1">
-                                <div class="item"><img class="img-fluid full-width" src="assets/images/default-about.jpg" alt="">
+                                <div class="item">
+                                    <img class="img-fluid full-width" src="assets/images/default-about.jpg" alt="">
                                 </div>
-                                <div class="item"><img class="img-fluid full-width" src="assets/images/default-about.jpg" alt="">
+                                <div class="item">
+                                    <img class="img-fluid full-width" src="assets/images/default-about.jpg" alt="">
                                 </div>
-                                <div class="item"><img class="img-fluid full-width" src="assets/images/default-about.jpg" alt="">
+                                <div class="item">
+                                    <img class="img-fluid full-width" src="assets/images/default-about.jpg" alt="">
                                 </div>
                             </div>
                         </div>
@@ -140,27 +143,61 @@ $G_C_SITE_KEY = getenv('G_C_SITE_KEY');
                 </div>
                 <div class="row">
                     <div class="col-lg-12 col-md-12">
-                        <div class="owl-carousel" data-nav-dots="true" data-items="5" data-md-items="5" data-sm-items="4" data-xs-items="3" data-xx-items="1" data-space="20">
-                            <div class="item">
-                                <img class="img-fluid full-width" src="assets/images/default-consultant.jpg" alt="">
+                        <div class="owl-carousel" data-nav-dots="true" data-items="4" data-md-items="4" data-sm-items="3" data-xs-items="2" data-xx-items="1" data-space="20">
+                            <div class="team team-round">
+                                <div class="team-photo">
+                                    <img class="img-fluid full-width" src="assets/images/dietitian/fildzah-k-putri-sgz-msc.jpg" alt="Fildzah K. Putri, S.Gz, M.Sc">
+                                </div>
+                                <div class="team-description">
+                                    <div class="team-info">
+                                        <p><b>Fildzah K. Putri, S.Gz, M.Sc</b></p>
+                                        <span>Dietitian</span>
+                                    </div>
+                                </div>
                             </div>
-                            <div class="item">
-                                <img class="img-fluid full-width" src="assets/images/default-consultant.jpg" alt="">
+                            <div class="team team-round">
+                                <div class="team-photo">
+                                    <img class="img-fluid full-width" src="assets/images/dietitian/raudhatul-jannah-sgz.jpg" alt="Raudhatul Jannah, S.Gz">
+                                </div>
+                                <div class="team-description">
+                                    <div class="team-info">
+                                        <p><b>Raudhatul Jannah, S.Gz</b></p>
+                                        <span>Dietitian</span>
+                                    </div>
+                                </div>
                             </div>
-                            <div class="item">
-                                <img class="img-fluid full-width" src="assets/images/default-consultant.jpg" alt="">
+                            <div class="team team-round">
+                                <div class="team-photo">
+                                    <img class="img-fluid full-width" src="assets/images/kontributor/ilyatun-niswah-sgz-msc.jpg" alt="Ilyatun Niswah, S.Gz, M.Sc">
+                                </div>
+                                <div class="team-description">
+                                    <div class="team-info">
+                                        <p><b>Ilyatun Niswah, S.Gz, M.Sc</b></p>
+                                        <span>Kontributor</span>
+                                    </div>
+                                </div>
                             </div>
-                            <div class="item">
-                                <img class="img-fluid full-width" src="assets/images/default-consultant.jpg" alt="">
+                            <div class="team team-round">
+                                <div class="team-photo">
+                                    <img class="img-fluid full-width" src="assets/images/kontributor/nur-elya-adiba-sgz.jpg" alt="Nur Elya Adiba, S.Gz">
+                                </div>
+                                <div class="team-description">
+                                    <div class="team-info">
+                                        <p><b>Nur Elya Adiba, S.Gz</b></p>
+                                        <span>Kontributor</span>
+                                    </div>
+                                </div>
                             </div>
-                            <div class="item">
-                                <img class="img-fluid full-width" src="assets/images/default-consultant.jpg" alt="">
-                            </div>
-                            <div class="item">
-                                <img class="img-fluid full-width" src="assets/images/default-consultant.jpg" alt="">
-                            </div>
-                            <div class="item">
-                                <img class="img-fluid full-width" src="assets/images/default-consultant.jpg" alt="">
+                            <div class="team team-round">
+                                <div class="team-photo">
+                                    <img class="img-fluid full-width" src="assets/images/kontributor/nurrika-azizah-sgz.jpg" alt="Nurrika Azizah, S.Gz">
+                                </div>
+                                <div class="team-description">
+                                    <div class="team-info">
+                                        <p><b>Nurrika Azizah, S.Gz</b></p>
+                                        <span>Kontributor</span>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -251,7 +288,7 @@ $G_C_SITE_KEY = getenv('G_C_SITE_KEY');
                         <div class="col-lg-6">
                             <img class="img-fluid mb-10" id="logo-footer" src="assets/images/logo.jpg" alt="">
                             <div class="footer-text">
-                                <p> &copy;Copyright <span id="copyright"> </span> <a href="#"> Webster </a> All Rights Reserved </p>
+                                <p> &copy;Copyright <span id="copyright"> </span> <a href="#"> Konsultasigizi.id </a> All Rights Reserved </p>
                             </div>
                         </div>
                     </div>
