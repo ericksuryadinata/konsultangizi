@@ -214,7 +214,7 @@ NOTE: This file includes all revolution slider scripts.
             }
           });
         }
-      }); 
+      });
 
  /*************************************
  		slider 04
@@ -307,7 +307,7 @@ NOTE: This file includes all revolution slider scripts.
             sliderType:"standard",
             sliderLayout:"auto",
             dottedOverlay:"none",
-            delay:9000,
+            delay:4000,
             navigation: {
               keyboardNavigation:"off",
               keyboard_direction: "horizontal",
@@ -445,7 +445,7 @@ NOTE: This file includes all revolution slider scripts.
           });
         }
       });
- 
+
 
  /*************************************
  		slider 07
@@ -668,7 +668,7 @@ NOTE: This file includes all revolution slider scripts.
  /*************************************
  			index-cafe
  **************************************/
- 
+
      var revapi9,
       tpj=jQuery;
         tpj(document).ready(function() {
@@ -1364,7 +1364,7 @@ NOTE: This file includes all revolution slider scripts.
             }
           });
         }
-      }); 
+      });
 
   /*************************************
      pizza
@@ -1467,8 +1467,8 @@ NOTE: This file includes all revolution slider scripts.
           });
         }
       });
-  
- 
+
+
  })(jQuery);
 
 
