@@ -87,7 +87,7 @@ $G_C_SITE_KEY = getenv('G_C_SITE_KEY');
         </header>
 
         <div class="pb-50 md-pt-100 md-pb-20 xs-pl-10 xs-pr-10">
-            <div class="owl-carousel" data-nav-dots="true" data-space="50" data-items="2" data-md-items="3" data-sm-items="1" data-xs-items="1" data-xx-items="1">
+            <div class="owl-carousel" data-nav-dots="true" data-space="50" data-items="2" data-md-items="2" data-sm-items="1" data-xs-items="1" data-xx-items="1">
                 <div class="item">
                     <img class="img-fluid full-width" src="assets/images/slides/AskTheExpertOut.webp" alt="Slider">
                 </div>
