@@ -723,7 +723,7 @@
         }
     </style>
     <meta name="robots" content="noindex,nofollow" />
-    <meta property="og:title" content="My First Campaign" />
+    <meta property="og:title" content="Konsultan Gizi Email" />
 </head>
 <!--[if mso]>
   <body class="mso">

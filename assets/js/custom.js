@@ -142,6 +142,7 @@ var $window = $(window),
          loadScript(plugin_path + 'owl-carousel/owl-carousel.min.js', function() {
            owlslider.each(function () {
             var $this = $(this),
+                $center = ($this.attr('data-center')) ? $this.data('center') : true,
                 $items = ($this.data('items')) ? $this.data('items') : 1,
                 $loop = ($this.attr('data-loop')) ? $this.data('loop') : true,
                 $navdots = ($this.data('nav-dots')) ? $this.data('nav-dots') : false,
@@ -153,6 +154,7 @@ var $window = $(window),
                 $space = ($this.attr('data-space')) ? $this.data('space') : 30;
 
                 $(this).owlCarousel({
+                    center: $center,
                     loop: $loop,
                     items: $items,
                     responsive: {
