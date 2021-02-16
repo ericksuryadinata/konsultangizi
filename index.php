@@ -106,16 +106,16 @@ $G_C_SITE_KEY = getenv('G_C_SITE_KEY');
                     <div class="col-lg-6">
                         <div class="js-video [youtube, widescreen]">
                             <iframe width="480" height="520" src="https://www.youtube.com/embed/vq48eJA4c58" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                            <!-- <img class="img-fluid full-width" src="assets/images/default-about.jpg" alt=""> -->
+                            <!-- <img class="img-fluid full-width" src="assets/images/default-about.webp" alt=""> -->
                             <!-- <div class="owl-carousel" data-nav-dots="true" data-items="1" data-md-items="1" data-sm-items="1" data-xs-items="1" data-xx-items="1">
                                 <div class="item">
-                                    <img class="img-fluid full-width" src="assets/images/default-about.jpg" alt="">
+                                    <img class="img-fluid full-width" src="assets/images/default-about.webp" alt="">
                                 </div>
                                 <div class="item">
-                                    <img class="img-fluid full-width" src="assets/images/default-about.jpg" alt="">
+                                    <img class="img-fluid full-width" src="assets/images/default-about.webp" alt="">
                                 </div>
                                 <div class="item">
-                                    <img class="img-fluid full-width" src="assets/images/default-about.jpg" alt="">
+                                    <img class="img-fluid full-width" src="assets/images/default-about.webp" alt="">
                                 </div>
                             </div> -->
                         </div>
@@ -177,7 +177,7 @@ $G_C_SITE_KEY = getenv('G_C_SITE_KEY');
                             </div>
                             <div class="team team-round">
                                 <div class="team-photo">
-                                    <img class="img-fluid full-width" src="assets/images/kontributor/nurrika-azizah-sgz.jpeg" alt="Nurrika Azizah, S.Gz">
+                                    <img class="img-fluid full-width" src="assets/images/kontributor/nurrika-azizah-sgz.webp" alt="Nurrika Azizah, S.Gz">
                                 </div>
                                 <div class="team-description">
                                     <div class="team-info">
@@ -188,7 +188,7 @@ $G_C_SITE_KEY = getenv('G_C_SITE_KEY');
                             </div>
                             <div class="team team-round">
                                 <div class="team-photo">
-                                    <img class="img-fluid full-width" src="assets/images/kontributor/mief-qur-anin-sgz.jpeg" alt="Mief Qur Anin S.Gz">
+                                    <img class="img-fluid full-width" src="assets/images/kontributor/mief-qur-anin-sgz.webp" alt="Mief Qur Anin S.Gz">
                                 </div>
                                 <div class="team-description">
                                     <div class="team-info">
@@ -199,7 +199,7 @@ $G_C_SITE_KEY = getenv('G_C_SITE_KEY');
                             </div>
                             <div class="team team-round">
                                 <div class="team-photo">
-                                    <img class="img-fluid full-width" src="assets/images/kontributor/adinda-dwi-a-sgz.jpeg" alt="Adinda Dwi A. S.Gz">
+                                    <img class="img-fluid full-width" src="assets/images/kontributor/adinda-dwi-a-sgz.webp" alt="Adinda Dwi A. S.Gz">
                                 </div>
                                 <div class="team-description">
                                     <div class="team-info">
@@ -210,7 +210,7 @@ $G_C_SITE_KEY = getenv('G_C_SITE_KEY');
                             </div>
                             <div class="team team-round">
                                 <div class="team-photo">
-                                    <img class="img-fluid full-width" src="assets/images/kontributor/aprinia-nurhayati-sgz-msi.jpg" alt="Aprinia Nurhayati, S.Gz, M.Si">
+                                    <img class="img-fluid full-width" src="assets/images/kontributor/aprinia-nurhayati-sgz-msi.webp" alt="Aprinia Nurhayati, S.Gz, M.Si">
                                 </div>
                                 <div class="team-description">
                                     <div class="team-info">
@@ -221,7 +221,7 @@ $G_C_SITE_KEY = getenv('G_C_SITE_KEY');
                             </div>
                             <div class="team team-round">
                                 <div class="team-photo">
-                                    <img class="img-fluid full-width" src="assets/images/kontributor/atika-audini-sgz.jpg" alt="Atika Audini S.Gz">
+                                    <img class="img-fluid full-width" src="assets/images/kontributor/atika-audini-sgz.webp" alt="Atika Audini S.Gz">
                                 </div>
                                 <div class="team-description">
                                     <div class="team-info">
@@ -232,7 +232,7 @@ $G_C_SITE_KEY = getenv('G_C_SITE_KEY');
                             </div>
                             <div class="team team-round">
                                 <div class="team-photo">
-                                    <img class="img-fluid full-width" src="assets/images/kontributor/aulia-riska-i-sgz-mtp.jpg" alt="Aulia Riska I., S.Gz., M.TP">
+                                    <img class="img-fluid full-width" src="assets/images/kontributor/aulia-riska-i-sgz-mtp.webp" alt="Aulia Riska I., S.Gz., M.TP">
                                 </div>
                                 <div class="team-description">
                                     <div class="team-info">
@@ -243,7 +243,7 @@ $G_C_SITE_KEY = getenv('G_C_SITE_KEY');
                             </div>
                             <div class="team team-round">
                                 <div class="team-photo">
-                                    <img class="img-fluid full-width" src="assets/images/kontributor/lavrencia-ar-sgz.jpg" alt="Lavrencia AR, S.Gz">
+                                    <img class="img-fluid full-width" src="assets/images/kontributor/lavrencia-ar-sgz.webp" alt="Lavrencia AR, S.Gz">
                                 </div>
                                 <div class="team-description">
                                     <div class="team-info">
