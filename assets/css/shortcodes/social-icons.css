@@ -24,6 +24,9 @@ NOTE: This file contains social icon CSS.
 .social-icons.color .social-rss a,
 .social-icons.color-hover .social-rss a:hover {background-color: #faa33d;}
 
+.social-icons.color .social-spotify a,
+.social-icons.color-hover .social-spotify a:hover {background-color: #1db954;}
+
 .social-icons.color .social-facebook a,
 .social-icons.color-hover .social-facebook a:hover{background-color:#5d82d1;}
 
@@ -167,7 +170,7 @@ NOTE: This file contains social icon CSS.
 
 .social-icons.big li a { height:62px; width:62px; line-height:62px; font-size:18px; }
 
- 
+
 /*icon */
 .social-icons.color-icon a { color: #84ba3f; }
 

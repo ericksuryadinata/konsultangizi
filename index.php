@@ -291,13 +291,30 @@ $G_C_SITE_KEY = getenv('G_C_SITE_KEY');
                         <div class="col-lg-6">
                             <img class="img-fluid mb-10" id="logo-footer" src="assets/images/logo-grayscale.png" alt="">
                             <div class="footer-text">
-                                <p> &copy;Copyright <span id="copyright"> </span> <a href="#"> Konsultasigizi.id </a> All Rights Reserved </p>
+                                <p> &copy;Copyright <span id="copyright"> </span> <a href="#"> konsultasigizi.id </a> All Rights Reserved </p>
+                            </div>
+                        </div>
+                        <div class="col-lg-6">
+                            <div class="footer-social">
+                                <ul class="text-left text-lg-right">
+                                    <li class="list-inline-item">Email : info.konsultangizi@gmail.com &nbsp;|</li>
+                                    <li class="list-inline-item">Telepon : 081221224577 &nbsp;</li>
+                                </ul>
+                            </div>
+                            <div class="social-icons color-hover text-left text-lg-right mt-20">
+                                <ul class="clearfix">
+                                    <li class="social-facebook"><a href="https://www.facebook.com/sahabatkozi/"><i class="fab fa-facebook"></i></a></li>
+                                    <li class="social-spotify"><a href="https://open.spotify.com/show/5fDU64d744YKAqCGiU94Ll?si=Wyy12cjJTR-sgCY0rGNJZA"><i class="fab fa-spotify"></i></a></li>
+                                    <li class="social-instagram"><a href="https://www.instagram.com/konsultangizi.id/"><i class="fab fa-instagram"></i></a></li>
+                                    <li class="social-tiktok"><a href="https://www.tiktok.com/@konsultangizi.id?lang=en"><i class="fab fa-tiktok"></i></a></li>
+                                </ul>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-        </footer>
+    </div>
+    </footer>
     </div>
     <div id="back-to-top"><a class="top arrow" href="#top"><i class="fa fa-angle-up"></i> <span>TOP</span></a></div>
 
