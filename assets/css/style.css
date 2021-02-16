@@ -170,7 +170,7 @@ NOTE: This is main stylesheet of template, This file contains the styling for th
 .mega-menu .col-md-12  { padding-left: 0px; padding-right: 0px; }
 .mega-menu.desktopTopFixed .menu-logo { padding: 0px; }
 .mega-menu.desktopTopFixed .search-cart i.icon { line-height: 20px; }
-.mega-menu.desktopTopFixed .menu-list-items .menu-logo > li > a img { height: 30px; }
+.mega-menu.desktopTopFixed .menu-list-items .menu-logo > li > a img { height: 40px; }
 .mega-menu .badge  { color: #ffffff; }
 .mega-menu .drop-down-multilevel li.activeTriggerMobile { background: #fafafa; }
 
@@ -990,7 +990,7 @@ a.blog-btn i {  margin-left: 10px; -webkit-transition: all 0.3s ease-out 0s; -mo
 .footer-contact .footer-nav ul li a:hover { color: #2046f2; }
 .footer-contact .contact-box .contact-icon i { background: transparent; color: #84ba3f; margin-bottom: 10px; }
 .footer.footer-topbar hr { border-color: #d9d9d9; }
-.footer.footer-topbar img#logo-footer { height: 34px; margin-bottom: 10px; }
+.footer.footer-topbar img#logo-footer { height: 54px; margin-bottom: 10px; }
 .footer-contact .social ul { background: #f6f7f8; }
 .footer-contact .social ul li a i { color: #353535; }
 .footer-contact .social ul li a i:hover { color: #2046f2; }

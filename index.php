@@ -21,7 +21,7 @@ $G_C_SITE_KEY = getenv('G_C_SITE_KEY');
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Konsultasi Gizi</title>
     <!-- Favicon -->
-    <link rel="shortcut icon" href="assets/images/logo.jpg" />
+    <link rel="shortcut icon" href="assets/images/logo.png" />
 
     <!-- font -->
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:300,300i,400,500,500i,600,700,800,900|Poppins:200,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900" />
@@ -63,7 +63,7 @@ $G_C_SITE_KEY = getenv('G_C_SITE_KEY');
                                     <!-- menu logo -->
                                     <ul class="menu-logo">
                                         <li>
-                                            <a href="index-01.html"><img id="logo_img" class="img-fluid" src="assets/images/logo.jpg" alt="konsultasigizi" />
+                                            <a href="index-01.html"><img id="logo_img" class="img-fluid" src="assets/images/logo-grayscale.png" alt="konsultasigizi" />
                                             </a>
                                         </li>
                                     </ul>
@@ -104,8 +104,10 @@ $G_C_SITE_KEY = getenv('G_C_SITE_KEY');
             <div class="container">
                 <div class="row">
                     <div class="col-lg-6">
-                        <div class="who-we-are-left">
-                            <div class="owl-carousel" data-nav-dots="true" data-items="1" data-md-items="1" data-sm-items="1" data-xs-items="1" data-xx-items="1">
+                        <div class="js-video [youtube, widescreen]">
+                            <iframe width="480" height="520" src="https://www.youtube.com/embed/vq48eJA4c58" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            <!-- <img class="img-fluid full-width" src="assets/images/default-about.jpg" alt=""> -->
+                            <!-- <div class="owl-carousel" data-nav-dots="true" data-items="1" data-md-items="1" data-sm-items="1" data-xs-items="1" data-xx-items="1">
                                 <div class="item">
                                     <img class="img-fluid full-width" src="assets/images/default-about.jpg" alt="">
                                 </div>
@@ -115,16 +117,17 @@ $G_C_SITE_KEY = getenv('G_C_SITE_KEY');
                                 <div class="item">
                                     <img class="img-fluid full-width" src="assets/images/default-about.jpg" alt="">
                                 </div>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                     <div class="col-lg-6 sm-mt-30">
                         <div class="section-title">
-                            <h6>Who we are and what we do</h6>
-                            <h2 class="title-effect">Get to know us better.</h2>
-                            <p>We truly care about our users and our product. We are dedicated to providing you with the best experience possible. </p>
+                            <h2 class="title-effect">Tentang Kami</h2>
                         </div>
-                        <p>Let's make something great together consectetur adipisicing elit. <span class="theme-color" data-toggle="tooltip" data-placement="top" title="" data-original-title="HTML5 template">Webster</span> conseqt quibusdam, enim expedita sed quia nesciunt. Vero quod conseqt quibusdam, enim expedita sed quia nesciunt incidunt accusamus necessitatibus</p>
+                        <p class="text-justify">
+                            Startup yang digawangi oleh ahli gizi dengan latar belakang keahlian dan spesifikasi bidang yang beragam seputar gizi dan kesehatan.
+                            Dengan semangat kerja professional dan passionate, Konsultan Gizi memberikan kesempatan seluas-luasnya kepada tim untuk berkembang sesuai dengan minat dan ketertarikan. Selain itu program dan pelayanan kami akan selalu update, karena kami berkomitmen untuk masyarakat Indonesia.
+                        </p>
                     </div>
                 </div>
             </div>
@@ -213,6 +216,11 @@ $G_C_SITE_KEY = getenv('G_C_SITE_KEY');
                         </div>
                     </div>
                 </div>
+                <div class="row">
+                    <div class="col-lg-12 col-md-12">
+                        <iframe src="https://open.spotify.com/embed-podcast/show/5fDU64d744YKAqCGiU94Ll" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+                    </div>
+                </div>
             </div>
         </section>
 
@@ -220,13 +228,13 @@ $G_C_SITE_KEY = getenv('G_C_SITE_KEY');
             <div class="container">
                 <div class="row">
                     <div class="col-lg-7 col-md-7 col-sm-12">
-                        <img class="img-fluid" src="assets/images/default-consultant.jpg" alt="">
+                        <img class="img-fluid" src="assets/images/konsultasi.png" alt="">
                     </div>
                     <div class="col-lg-5 col-md-7 col-sm-12">
                         <div class="contact-3-info page-section-pb">
                             <div class="clearfix">
                                 <div class="section-title mb-0">
-                                    <h2 class="title-effect">Kontak Form</h2>
+                                    <h2 class="title-effect">Form Konsultasi</h2>
                                 </div>
                                 <div id="formmessage">Success/Error Message Goes Here</div>
                                 <form id="form-konsultasi" role="form" method="post" action="php/email.php">
@@ -281,7 +289,7 @@ $G_C_SITE_KEY = getenv('G_C_SITE_KEY');
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-6">
-                            <img class="img-fluid mb-10" id="logo-footer" src="assets/images/logo.jpg" alt="">
+                            <img class="img-fluid mb-10" id="logo-footer" src="assets/images/logo-grayscale.png" alt="">
                             <div class="footer-text">
                                 <p> &copy;Copyright <span id="copyright"> </span> <a href="#"> Konsultasigizi.id </a> All Rights Reserved </p>
                             </div>
