@@ -269,7 +269,7 @@ $G_C_SITE_KEY = getenv('G_C_SITE_KEY');
                         </div>
                     </div>
                     <div class="col-lg-12 col-md-12 col-sm-12 text-center">
-                        <div class="isotope columns-4" id="instagram-feed">
+                        <div id="instagram-feed">
                         </div>
                     </div>
                 </div>
