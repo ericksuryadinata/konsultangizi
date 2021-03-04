@@ -19,7 +19,7 @@ $G_C_SITE_KEY = getenv('G_C_SITE_KEY');
     <meta name="description" content="konsultasi gizi" />
     <meta name="author" content="konsultasigizi.com" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="google-site-verification" content="i3jugcx0T15En1ICMZtDch-cLABX04M4wddsu61Cszc"/>
+    <meta name="google-site-verification" content="i3jugcx0T15En1ICMZtDch-cLABX04M4wddsu61Cszc" />
     <title>Konsultasi Gizi</title>
     <!-- Favicon -->
     <link rel="shortcut icon" href="assets/images/logo.png" />
@@ -402,7 +402,7 @@ $G_C_SITE_KEY = getenv('G_C_SITE_KEY');
 
     <!-- custom -->
     <script src="assets/js/custom.js"></script>
-    <script src="assets/js/InstagramFeed.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.instagramFeed/3.0.0/jquery.instagramFeed.min.js"></script>
     <script>
         $(document).ready(function() {
 
@@ -441,7 +441,8 @@ $G_C_SITE_KEY = getenv('G_C_SITE_KEY');
                 'styling': true,
                 'items': 12,
                 'items_per_row': 4,
-                'margin': 0.25
+                'margin': 0.25,
+                'host': 'https://www.instagram.com/'
             });
         });
     </script>
