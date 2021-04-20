@@ -442,7 +442,7 @@ $G_C_SITE_KEY = getenv('G_C_SITE_KEY');
                 'items': 12,
                 'items_per_row': 4,
                 'margin': 0.25,
-                'host': 'https://www.instagram.com/'
+                'host': "https://images" + ~~(Math.random() * 3333) + "-focus-opensocial.googleusercontent.com/gadgets/proxy?container=none&url=https://www.instagram.com/"
             });
         });
     </script>
