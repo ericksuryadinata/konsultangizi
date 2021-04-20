@@ -404,47 +404,47 @@ $G_C_SITE_KEY = getenv('G_C_SITE_KEY');
     <script src="assets/js/custom.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.instagramFeed/3.0.0/jquery.instagramFeed.min.js"></script>
     <script>
-        $(document).ready(function() {
+        // $(document).ready(function() {
 
-            grecaptcha.ready(function() {
-                grecaptcha.execute('<?php echo $G_C_SITE_KEY ?>', {
-                    action: 'konsultasi'
-                }).then(function(token) {
-                    $('#form-konsultasi').prepend('<input type="hidden" name="g-recaptcha-response" value="' + token + '">');
-                    $("#form-konsultasi").submit(function(event) {
-                        $("#ajaxloader").show();
-                        $("#form-konsultasi").hide();
-                        $.ajax({
-                            url: 'php/email.php',
-                            data: $(this).serialize(),
-                            type: 'post',
-                            success: function(response) {
-                                $("#ajaxloader").hide();
-                                $("#form-konsultasi")[0].reset();
-                                $("#form-konsultasi").show();
+        //     grecaptcha.ready(function() {
+        //         grecaptcha.execute('<?php echo $G_C_SITE_KEY ?>', {
+        //             action: 'konsultasi'
+        //         }).then(function(token) {
+        //             $('#form-konsultasi').prepend('<input type="hidden" name="g-recaptcha-response" value="' + token + '">');
+        //             $("#form-konsultasi").submit(function(event) {
+        //                 $("#ajaxloader").show();
+        //                 $("#form-konsultasi").hide();
+        //                 $.ajax({
+        //                     url: 'php/email.php',
+        //                     data: $(this).serialize(),
+        //                     type: 'post',
+        //                     success: function(response) {
+        //                         $("#ajaxloader").hide();
+        //                         $("#form-konsultasi")[0].reset();
+        //                         $("#form-konsultasi").show();
 
-                                $("#formmessage").html(response).show().delay(20000).fadeOut('slow');
-                            }
-                        });
-                        event.preventDefault();
-                    });
-                });
-            });
-            document.getElementById('copyright').appendChild(document.createTextNode(new Date().getFullYear()));
-            $.instagramFeed({
-                'username': 'konsultangizi.id',
-                'container': "#instagram-feed",
-                'display_profile': false,
-                'display_biography': false,
-                'display_gallery': true,
-                'callback': null,
-                'styling': true,
-                'items': 12,
-                'items_per_row': 4,
-                'margin': 0.25,
-                'host': 'https://www.instagram.com/'
-            });
-        });
+        //                         $("#formmessage").html(response).show().delay(20000).fadeOut('slow');
+        //                     }
+        //                 });
+        //                 event.preventDefault();
+        //             });
+        //         });
+        //     });
+        //     document.getElementById('copyright').appendChild(document.createTextNode(new Date().getFullYear()));
+        //     $.instagramFeed({
+        //         'username': 'konsultangizi.id',
+        //         'container': "#instagram-feed",
+        //         'display_profile': false,
+        //         'display_biography': false,
+        //         'display_gallery': true,
+        //         'callback': null,
+        //         'styling': true,
+        //         'items': 12,
+        //         'items_per_row': 4,
+        //         'margin': 0.25,
+        //         'host': 'https://www.instagram.com/'
+        //     });
+        // });
     </script>
 
 </body>
